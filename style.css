@@ -145,7 +145,7 @@ header a, .header-nav a, .left-buttons {
     height: 1em;
     width: .1em;
     position: absolute;
-    right: -5px;
+    right: -12px;
 }
 
 .subscribe-button {
@@ -361,7 +361,6 @@ main > * {
 }
 
 .premium-icon {
-    content: "";
     font-size: 14px;
     font-weight: 100;
     font-family: "Manufacturing Consent", system-ui;
@@ -389,8 +388,8 @@ main > * {
 .image-credits {
     font-family: "Fira Sans", sans-serif;
     font-weight: 400;
-    font-size: 10px;
-    color: #717b8e;
+    font-size: 11px;
+    color: #6b778a;
     text-align: right;
     text-transform: uppercase;
     margin-top: 4px;
@@ -437,7 +436,7 @@ main > * {
 .article-info {
     font-family: "Roboto Condensed", sans-serif;
     font-size: 13px;
-    color: #717b8e;
+    color: #6b778a;
     margin-top: 4px;
     margin-bottom: 12px;
     letter-spacing: .5px;
@@ -450,7 +449,7 @@ main > * {
 .article-footer {
     font-family: "Roboto Condensed", sans-serif;
     font-size: 13px;
-    color: #717b8e;
+    color: #6b778a;
     margin-top: 16px;
     margin-bottom: 0;
 }
@@ -647,7 +646,7 @@ main > * {
 
 .section-1 .description {
     margin-top: 4px;
-    color: #717b8e;
+    color: #6b778a;
 }
 
 .section-1 .more-content, .scroll-arrows {
@@ -721,7 +720,7 @@ main > * {
 .section-nav {
     font-family: "Roboto Condensed", sans-serif;
     font-size: 13px;
-    color: #717b8e;
+    color: #6b778a;
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 1em;
